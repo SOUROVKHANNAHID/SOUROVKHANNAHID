@@ -17,7 +17,7 @@ I'm SOUROV KHAN NAHID
 <a href="https://stackoverflow.com/users/21278623/sourov-khan-nahid">
 <img align="center"  alt="My Stack overflow"  width="22px"  src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg"  />
 </a>
-<a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://bd.linkedin.com/in/sourov-khan-nahid-7a592b1a7&ved=2ahUKEwi9voj6-sL9AhXZ8XMBHQdNAu0QFnoECA8QAQ&usg=AOvVaw0m1_xN_dlhf_1TjOSbB8v9">
+<a href="https://www.linkedin.com/in/SOUROV-KHAN-NAHID">
 <img align="center"  alt="My LinkedIn"  width="22px"  src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"  />
 </a>
 <a href="https://forum.xda-developers.com/m/sourov-khan-nahid.12286837/">
